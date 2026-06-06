@@ -1,6 +1,6 @@
-# Chasni: Local-First Staff Automation Module (`chasni-task-runner`)
+# Local-First Staff Automation Module (`task-runner`)
 
-A lightweight, local-first Android utility built for small sweet shop (*mithai*) owners. This module automates internal shop operations and staff communication using zero-cost on-device technologies. It translates generic UI actions from the store owner into localized, dynamic voice commands directed at specific active employees (e.g., announcing out loud: *"Subbu, check the inventory"*), without forcing the owner to manually input names during busy shop hours.
+A lightweight, local-first Android utility built for  shop owners. This module automates internal shop operations and staff communication using zero-cost on-device technologies. It translates generic UI actions from the store owner into localized, dynamic voice commands directed at specific active employees (e.g., announcing out loud: *"Subbu, check the inventory"*), without forcing the owner to manually input names during busy shop hours.
 
 ---
 
